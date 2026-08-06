@@ -1,57 +1,60 @@
-# Hi there, I'm Emmanuel Hanson Okulu 👋
+# Emmanuel Hanson Okulu
 
-**Mechatronics Engineering Graduate (July 2025) | Embedded Systems, Robotics & AI**
+Mechatronics Engineering Graduate (July 2025, University of Port Harcourt) specializing in embedded systems, robotics, and hardware-software integration. 
 
-Mechatronics Engineering Graduate (July 2025) with a strong academic foundation (4.30/5.00 CGPA) and extensive experience in hardware-software integration, real-time control, intelligent automation, and STEM education.
+- **CGPA:** 4.30 / 5.00 (Second Class Upper)
+- **Primary Focus:** Microcontroller Firmware, Real-Time Control Systems, Desktop GUI Engineering Tools, STEM Education
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack
+
 - **Languages:** Python, C++, C (Arduino), PLC Ladder Logic, HTML/CSS, JavaScript
-- **Hardware & Microcontrollers:** Arduino, Microprocessors, Sensors & Actuators, Digital Electronics
-- **Frameworks & Tools:** PySide6 (Qt), Streamlit, Git, GitHub, Proteus, PySerial, SQLite, Web Development
+- **Hardware & Microcontrollers:** Arduino, Microprocessors, Sensors & Actuators, Digital Logic Circuits
+- **Tools & Frameworks:** PySide6 (Qt), Streamlit, Git, GitHub, Proteus Design Suite, PySerial, SQLite
 
 ---
 
-### 🏆 Featured Capstone Project
+### Featured Project
 
-#### 🚘 Remote-Controlled Smart Hydraulic Jack (Final Year Thesis, July 2025)
-Designed and implemented an intelligent, wireless electro-hydraulic vehicle lifting system aimed at improving roadside maintenance safety.
-- **Hardware & Control:** Arduino/Microcontroller integration, motor drivers, electro-hydraulic valves, wireless RF/Bluetooth modules.
-- **Safety Features:** Integrated limit sensors, overload protection, LED safety indicators, and immediate emergency cut-offs.
-- **Results:** Achieved a 100% safety success rate during multi-vehicle testing with zero signal failures.
-
----
-
-### 🚀 Projects Portfolio
-
-#### 💻 Computer Engineering & Embedded Systems
-* **🤖 Intelligent Robotics Control & Monitoring System:** Real-time desktop application for robotic hardware control and telemetry streaming via serial communication (reduced signal latency by 35%).
-* **🤖 Robotic Arm (Pick-and-Place Manipulator):** Multi-DOF robotic arm designed and programmed for automated object handling and spatial positioning.
-* **🏎️ Bluetooth-Controlled Mobile Robotic Car:** Wireless robotic vehicle built with Arduino and embedded control techniques for real-time navigation.
-* **🗑️ Smart Automated Dustbin:** Touchless waste container utilizing ultrasonic sensors and servo motor control for automated lid operation.
-* **🔥 Intelligent Fire Detection & Alarm System:** Sensor-driven embedded alert system for rapid hazardous environmental monitoring.
-
-#### 🎓 Educational & Desktop Software
-* **🧮 Scientific Calculator App:** Interactive GUI application engineered for complex mathematical computations, trigonometric functions, and engineering operations.
-* **⚡ Digital Logic & Computer Engineering Calculator Suite:** GUI computational tool featuring a Digital Logic Gate Simulator, Number Base Converters (Binary/Hex/Decimal), and Computer Arithmetic tools.
-* **🧠 AI Engineering Learning Assistant:** AI-powered educational platform designed to assist undergraduate students in Engineering, Embedded Systems, and Programming.
-* **🐍 2D Snake Game:** Classic desktop arcade game developed in Python/GUI to demonstrate object-oriented programming (OOP), event handling, and game loop logic.
-
-#### 🌐 Web Applications
-* **💱 Currency Converter Website:** Responsive web application providing real-time exchange rate computations and dynamic UI feedback.
-* **⚖️ Weight Converter Website:** Lightweight web application for instant multi-unit mass and weight conversions across engineering systems.
+#### Remote-Controlled Smart Hydraulic Jack (Final Year Thesis)
+Wireless electro-hydraulic vehicle lifting system built to improve roadside maintenance safety.
+- **Hardware & Control:** Integrated Arduino, motor drivers, electro-hydraulic valves, and RF/Bluetooth modules.
+- **Safety System:** Implemented limit sensors, overload detection, status LEDs, and a hard interrupt emergency stop.
+- **Field Results:** Completed multi-vehicle load testing with zero telemetry failures during operation.
 
 ---
 
-### 🔬 Research Interests
-- Autonomous Robotics & Embedded AI
-- Human–Robot Interaction (HRI)
-- Intelligent Computing Systems
-- Internet of Things (IoT) & Embedded Security
+### Projects
+
+#### Embedded Systems & Hardware
+* **Intelligent Robotics Control & Monitoring System:** PySide6 desktop UI for real-time telemetry streaming and serial protocol control of microcontrollers (achieved 35% latency reduction).
+* **Pick-and-Place Robotic Arm:** Multi-DOF manipulator built for spatial positioning and automated handling.
+* **Bluetooth Mobile Robotic Car:** Wireless vehicle utilizing Arduino-based motor driver control for real-time navigation.
+* **Smart Automated Dustbin:** Touchless container using ultrasonic distance sensors and servo-actuated lid response.
+* **Fire Detection & Alarm System:** Sensor array system configured for rapid environmental hazard detection.
+
+#### Desktop Applications & Software
+* **Scientific Calculator App:** Python GUI application handling complex arithmetic, trigonometric operations, and unit functions.
+* **Digital Logic & Computer Engineering Calculator Suite:** Interactive GUI featuring a logic gate simulator and base converters (Binary/Hex/Decimal).
+* **AI Engineering Learning Assistant:** Streamlit app designed to guide engineering undergraduates through embedded systems concepts and code debugging.
+* **2D Snake Game:** Desktop arcade game built to demonstrate object-oriented programming, collision detection, and event loop logic.
+
+#### Web Projects
+* **Currency Converter:** Web application for real-time currency conversions.
+* **Weight Converter:** Lightweight web utility for multi-unit mass and weight conversions across engineering systems.
 
 ---
 
-📫 **Connect with me:**
-- **Email:** yourprofessionalemail@gmail.com
-- **LinkedIn:** [linkedin.com/in/emmanuel-hanson](https://linkedin.com/in/emmanuel-hanson)
+### Research Interests
+
+- Autonomous Systems & Embedded AI
+- Human-Robot Interaction (HRI)
+- Intelligent Control Systems
+- IoT & Microcontroller Security
+
+---
+
+### Contact
+
+- **Email:** emmakulhanson@gmail.com
